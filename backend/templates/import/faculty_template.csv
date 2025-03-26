@@ -1,0 +1,4 @@
+name,email,password,facultyId,department
+Dr. John Doe,dr.john@example.com,password123,FAC12345,Cardiology
+Dr. Jane Smith,dr.jane@example.com,password123,FAC12346,Neurology
+
